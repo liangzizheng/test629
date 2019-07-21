@@ -1,5 +1,6 @@
 var kits = {};
 
+//时间格式 2019-01-01 00:00:00
 kits.formateDate = function(){
   let date = new Date();
   let y = date.getFullYear();
